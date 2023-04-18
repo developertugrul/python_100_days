@@ -16,6 +16,10 @@ height = 1.75
 
 isStudent = True
 
+# Change variable value
+
+name = "Tugrul"
+
 # Print variables
 
 print(name)
