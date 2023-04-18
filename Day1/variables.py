@@ -23,3 +23,9 @@ name = "Tugrul"
 # Print variables
 
 print(name)
+
+# example output
+
+surname = "Yıldırım"
+length = len(surname)
+print(length)
